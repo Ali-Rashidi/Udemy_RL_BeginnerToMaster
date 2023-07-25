@@ -1,2 +1,2 @@
-# Udemy_RL_BeginnerToMaster
+# Udemy_RL_EVLABS
 Code through Udemy RL course by evlabs
